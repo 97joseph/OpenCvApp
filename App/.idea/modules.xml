@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FaceDetectionandRecognition.iml" filepath="$PROJECT_DIR$/FaceDetectionandRecognition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary/openCVLibrary.iml" filepath="$PROJECT_DIR$/openCVLibrary/openCVLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary24136/openCVLibrary24136.iml" filepath="$PROJECT_DIR$/openCVLibrary24136/openCVLibrary24136.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary400pre/openCVLibrary400pre.iml" filepath="$PROJECT_DIR$/openCVLibrary400pre/openCVLibrary400pre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App.iml" filepath="$PROJECT_DIR$/.idea/modules/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary/App.openCVLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary/App.openCVLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary24136/App.openCVLibrary24136.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary24136/App.openCVLibrary24136.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary400pre/App.openCVLibrary400pre.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary400pre/App.openCVLibrary400pre.iml" />
     </modules>
   </component>
 </project>
